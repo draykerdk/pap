@@ -1,0 +1,35 @@
+schema_version: 1
+component:
+  id: pap
+  name: Projects & Applications
+  layer: PLATFORM
+  artifact_type: architecture
+  problem: "A project nobody can enter halfway through depends on the people who started it."
+  scope:
+    - "Public description of projects and applications as composable modules."
+    - "Public description of reuse and cloning across projects."
+    - "Public description of participation attributed through UID."
+    - "Public description of relation to DFMPProject and the project queues."
+  non_scope:
+    - "A running platform, an account system or a hosting service."
+    - "A replacement for the proposal path described in DFMPProject."
+  dependencies:
+    - dfmpproject
+    - uid
+    - dfmp
+  implementation:
+    level: none
+    scope: This repository publishes a charter and open questions; nothing is implemented.
+    evidence:
+      - type: document
+        ref: README.md
+  risks:
+    - Design language may be mistaken for an available capability.
+    - The absence of a specification can leave contributions without a clear target.
+  contributions:
+    availability: open
+    entrypoint: https://github.com/draykerdk/pap/issues
+  source_of_truth:
+    repository: https://github.com/draykerdk/pap
+    path: README.md
+  last_reviewed: "2026-08-11"
