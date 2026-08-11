@@ -1,0 +1,17 @@
+title: "Projects & Applications"
+description: "Where an intention becomes a project anyone can join. The environment where projects and applications are created, composed, validated, copied and evolved — each with its own scope and its own community, all speaking the same modular language, so that a project can reuse what another one already solved instead of rebuilding it."
+remote_theme: draykerdk/drayker-theme
+url: "https://pap.drayker.org"
+dk_kicker: "Platform"
+dk_subdomain: "pap.drayker.org"
+dk_repo: "https://github.com/draykerdk/pap"
+
+# The mark, drawn by the shared engine. The scope colour is the main accent until the
+# mark owner assigns one — DRAYKER-MARK.md §7 forbids inventing a new colour.
+dk_body: "grid"
+dk_rings: "hull"
+dk_wedge: "extract"
+dk_accent: "#FF5500"
+
+plugins:
+  - jekyll-sitemap
