@@ -4,15 +4,18 @@ component:
   name: Projects & Applications
   layer: PLATFORM
   artifact_type: architecture
-  problem: "A project nobody can enter halfway through depends on the people who started it."
+  problem: "Organizing around an objective is rebuilt from nothing every time, and a project that works has no way to become durable without being rebuilt as something else."
   scope:
     - "Public description of projects and applications as composable modules."
-    - "Public description of reuse and cloning across projects."
+    - "Public description of the lifecycle from project to application, and what promotion requires."
+    - "Public description of reuse, cloning and templates across projects."
+    - "Public description of validation, modelling and simulation before resources are committed."
     - "Public description of participation attributed through UID."
     - "Public description of relation to DFMPProject and the project queues."
   non_scope:
     - "A running platform, an account system or a hosting service."
     - "A replacement for the proposal path described in DFMPProject."
+    - "The rules for how funds are allocated, which belong to DAF."
   dependencies:
     - dfmpproject
     - uid
