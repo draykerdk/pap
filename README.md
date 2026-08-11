@@ -1,18 +1,33 @@
-> One place to start a project, join someone else’s halfway through, and reuse what another project already solved.
+> A project is how people organize around anything they want to do — and an application is what a project becomes once it works.
 
-**Where an intention becomes a project anyone can join.**
+**Where an intention becomes a project, and a project becomes something that lasts.**
 
-The environment where projects and applications are created, composed, validated, copied and evolved — each with its own scope and its own community, all speaking the same modular language, so that a project can reuse what another one already solved instead of rebuilding it. Bound to UID so participation is attributable, and to the method so a project stays enterable halfway through.
+The environment where projects are created, composed, validated, cloned and evolved, and where a project that reaches its objective is formalized into an application. A project is liquid and experimental; an application is the solid form of one that arrived. Every application was a project first. Bound to UID so participation is attributable, and to the method so a project is built from parts rather than from scratch.
+
+This is not only for developers. A project can be a study plan, a research programme, a local group, a DAO, an organization, a piece of software — anything that needs a goal, people and steps.
 
 ## The problem it addresses
 
-A project nobody can enter halfway through depends on the people who started it. Without a shared place where projects are composed the same way, every initiative rebuilds its own coordination from nothing and none of that work transfers.
+Organizing around a shared objective is rebuilt from nothing every time. The work of coordinating — the structure, the roles, the sequence — does not transfer between initiatives, and a project that succeeds has no way to become a durable thing without being rebuilt as something else.
 
-**How it works today.** Every initiative builds its own coordination from nothing, and none of that effort transfers to the next one.
+**How it works today.** Every initiative invents its own coordination, and nothing that one group learns is available to the next. What worked stays a project; what failed is attempted again elsewhere.
 
-**What would change.** Projects are composed from modules in a shared format, so entering one is reading it rather than being introduced to it.
+**What would change.** Projects are composed from modules in a shared format, so starting one is assembling rather than beginning, and a project that reaches its objective is promoted into an application without losing what it was.
 
 **Why the rest depends on it.** Without it, the method has nowhere to be practised at scale and every project stays the size of its founders.
+
+## How a project would be built
+
+Four ways, combinable rather than exclusive:
+
+- **With Dk.** Describe what you want; a working structure is proposed and evolves with the project.
+- **From a template.** Standard models for known purposes, copied and adapted.
+- **By assembly.** Pre-built functions and modules connected into a structure — the method applied to the project itself.
+- **From scratch.** Your own functions and modules, when nothing that exists fits.
+
+Any open project can be copied and modified — the fundamentals resemble a code forge, applied to far more than code. Dk is meant to work against duplicated effort: pointing to modules that already exist, to what has been tried and failed, and to people working towards the same thing.
+
+Projects would also carry validation and testing — predictions, modelling and simulation — so an idea can be examined before resources are spent on it, and evolved or discarded on evidence.
 
 ## Where this stands
 
@@ -24,7 +39,9 @@ document about it has somewhere to live and someone can argue with it in public.
 ## Scope
 
 - Projects and applications as composable modules
-- Reuse and cloning across projects
+- The lifecycle from project to application, and what promotion requires
+- Reuse, cloning and templates across projects
+- Validation, modelling and simulation before resources are committed
 - Participation attributed through UID
 - Relation to DFMPProject and the project queues
 
@@ -32,10 +49,11 @@ document about it has somewhere to live and someone can argue with it in public.
 
 - A running platform, an account system or a hosting service.
 - A replacement for the proposal path described in DFMPProject.
+- The rules for how funds are allocated, which belong to DAF.
 
 ## Role in the system
 
-Where projects and applications would be composed.
+Where projects are composed and where they become applications.
 
 **Relations.** Uses DFMP and DFMPProject · attributed through UID · runs on Dk · links units to DAF.
 
@@ -46,9 +64,13 @@ Where projects and applications would be composed.
 These are concrete and unclaimed. Any of them can be opened as an issue and delivered
 by one person.
 
-1. Write what the platform has to guarantee a project.
-2. Describe one application worth composing first.
-3. Argue where DFMPProject ends and the platform begins.
+1. Define the threshold: what a project must satisfy to be promoted into an application.
+2. Write what the platform has to guarantee a project.
+3. Describe one application worth composing first.
+4. Argue where DFMPProject ends and the platform begins.
+5. Describe the minimum lifecycle without any economy of its own: create, set an
+   objective, invite a participant, review a proposal, record a contribution, and close
+   or reuse a project.
 
 ## How to contribute
 
