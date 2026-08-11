@@ -1,5 +1,3 @@
-# Projects & Applications
-
 > One place to start a project, join someone else’s halfway through, and reuse what another project already solved.
 
 **Where an intention becomes a project anyone can join.**
