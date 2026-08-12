@@ -51,13 +51,11 @@ document about it has somewhere to live and someone can argue with it in public.
 - A replacement for the proposal path described in DFMPProject.
 - The rules for how funds are allocated, which belong to DAF.
 
-## Role in the system
+## How it fits the whole
 
-Where projects are composed and where they become applications.
+Where projects are composed and where they become applications — the middle of the loop that turns a problem into value.
 
-**Relations.** Uses DFMP and DFMPProject · attributed through UID · runs on Dk · links units to DAF.
-
-**Depends on.** `dfmpproject` · `uid` · `dfmp`
+A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a project through DFMPProject; PAP is where that project lives, is composed, copied and evolved — one shared language of functions and modules, so a project can reuse what another already solved. Participation inside it is attributed through [UID](https://uid.drayker.org). It runs on [Dk](https://dk.drayker.org) and links units to [DAF](https://daf.drayker.org). And it closes the loop with the [Academy](https://academy.drayker.org) — the function a person is learning is a function on this platform — and with the [value unit](https://value.drayker.org), because every project carries its fund.
 
 ## First functions
 
