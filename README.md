@@ -1,8 +1,8 @@
 > A project is how people organize around anything they want to do. An application is what a project becomes once it works.
 
-**Where an intention becomes a project, and a project becomes something that lasts.**
+**The environment where an intention gains a body, becomes a project and can grow into something that lasts.**
 
-The environment where projects are created, composed, validated, cloned and evolved, and where a project that reaches its objective is formalized into an application. A project is liquid and experimental. An application is the solid form of one that arrived. Every application was a project first. Bound to UID so participation is attributable, and to the method so a project is built from parts rather than from scratch.
+PAP is Drayker's project-and-application environment: where intentions become structures other members can inspect, join, compose, validate, clone and evolve, and where a project that reaches its objective can be formalized into an application. A project is liquid and experimental. An application is the durable form of one that arrived. Every application was a project first. PAP is bound to UID so participation is attributable, to DFM so work composes from functions, and to Dknowledge so the project keeps its memory.
 
 This is not only for developers. A project can be a study plan, a research programme, a local group, a DAO, an organization, a piece of software. Anything that needs a goal, people and steps.
 
@@ -14,7 +14,7 @@ Organizing around a shared objective is rebuilt from nothing every time. The wor
 
 **What would change.** Projects are composed from modules in a shared format, so starting one is assembling rather than beginning, and a project that reaches its objective is promoted into an application without losing what it was.
 
-**Why the rest depends on it.** Without it, the method has nowhere to be practised at scale and every project stays the size of its founders.
+**Why the rest depends on it.** Without PAP, Drayker remains a collection of repositories and proposals. PAP is where the method becomes lived coordination, where Dk meets projects in context and where an organization can outgrow its founders without losing its memory.
 
 ## How a project would be built
 
@@ -31,7 +31,7 @@ Projects would also carry validation and testing, predictions, modelling and sim
 
 ## Where this stands
 
-Drayker has internal material on the platform that is not published yet. The closest public relative is DFMPProject, which describes how a project gets proposed but not where it then lives. A repository comes only after a public charter and one worked example.
+Drayker has internal material on PAP that is not published yet. The closest public relative is DFMPProject, which describes how a project gets proposed but not where it then lives. A specification comes only after a public charter and one worked example.
 
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
@@ -49,13 +49,13 @@ document about it has somewhere to live and someone can argue with it in public.
 
 - A running platform, an account system or a hosting service.
 - A replacement for the proposal path described in DFMPProject.
-- The rules for how funds are allocated, which belong to DAF.
+- Constitutional rules for membership or resource allocation. PAP expresses decisions; it does not make itself sovereign.
 
 ## How it fits the whole
 
 Where projects are composed and where they become applications — the middle of the loop that turns a problem into value.
 
-A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a project through DFMPProject; PAP is where that project lives, is composed, copied and evolved — one shared language of functions and modules, so a project can reuse what another already solved. Participation inside it is attributed through [UID](https://uid.drayker.org). It runs on [Dk](https://dk.drayker.org) and links units to [DAF](https://daf.drayker.org). Every project and organization carries its own Dknowledge, in connection with a specialized Dk — the project's knowledge grows with the project, and a lesson learned in one is not learned twice in another. And it closes the loop with the [Academy](https://academy.drayker.org) — the function a person is learning is a function on this platform — and with the [value unit](https://value.drayker.org), because every project carries its fund.
+A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a project through DFMPProject; PAP is where that project lives, is composed, copied and evolved — one shared language of functions and modules, so a project can reuse what another already solved. Members act inside it through [UID](https://uid.drayker.org). It is assisted by [Dk](https://dk.drayker.org) and can carry transitional rules from [DAF](https://daf.drayker.org) without reducing the durable organization to either one. Every project and organization carries its own Dknowledge in connection with a specialised Dk: the project's memory and intelligence grow with the project, and a lesson learned in one need not be learned twice in another. PAP closes the loop with the [Academy](https://academy.drayker.org) and the [value unit](https://value.drayker.org), while member governance remains responsible for the rules under which shared resources move.
 
 ## First functions
 
