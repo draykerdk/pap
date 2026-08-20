@@ -49,13 +49,13 @@ document about it has somewhere to live and someone can argue with it in public.
 
 - A running platform, an account system or a hosting service.
 - A replacement for the proposal path described in DFMPProject.
-- The rules for how funds are allocated, which belong to DAF.
+- A claim that projects carry their own money or that DAF permanently owns allocation rules.
 
 ## How it fits the whole
 
 Where projects are composed and where they become applications — the middle of the loop that turns a problem into value.
 
-A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a project through DFMPProject; PAP is where that project lives, is composed, copied and evolved — one shared language of functions and modules, so a project can reuse what another already solved. Participation inside it is attributed through [UID](https://uid.drayker.org). It runs on [Dk](https://dk.drayker.org) and links units to [DAF](https://daf.drayker.org). Every project and organization carries its own Dknowledge, in connection with a specialized Dk — the project's knowledge grows with the project, and a lesson learned in one is not learned twice in another. And it closes the loop with the [Academy](https://academy.drayker.org) — the function a person is learning is a function on this platform — and with the [value unit](https://value.drayker.org), because every project carries its fund.
+A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a project through DFMPProject; PAP is where that project lives, is composed, copied and evolved — one shared language of functions and modules, so a project can reuse what another already solved. Participation inside it is attributed through [UID](https://uid.drayker.org). It runs on [Dk](https://dk.drayker.org) and progressively receives durable coordination functions tested in [DAF](https://daf.drayker.org). Every project and organization carries its own Dknowledge, in connection with a specialized Dk — the project's knowledge grows with the project, and reusable learning can cross scales with provenance and authorization. It closes the loop with the [Academy](https://academy.drayker.org), where a function can become a learning path, and relates needs and resources to the capacity economy. Projects may have resource relationships and accountable allocations; they do not inherently carry a self-contained fund.
 
 ## First functions
 
@@ -69,6 +69,8 @@ by one person.
 5. Describe the minimum lifecycle without any economy of its own: create, set an
    objective, invite a participant, review a proposal, record a contribution, and close
    or reuse a project.
+6. Specify how a governance or coordination function can migrate from DAF into PAP
+   without importing DAF's federative points as general reputation.
 
 ## How to contribute
 
