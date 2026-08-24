@@ -1,8 +1,8 @@
 > A project is how people organize around anything they want to do. An application is what a project becomes once it works.
 
-**The environment where an intention gains a body, becomes a project and can grow into something that lasts.**
+**Where an intention becomes a project, and a project becomes something that lasts.**
 
-PAP is Drayker's project-and-application environment: where intentions become structures other members can inspect, join, compose, validate, clone and evolve, and where a project that reaches its objective can be formalized into an application. A project is liquid and experimental. An application is the durable form of one that arrived. Every application was a project first. PAP is bound to UID so participation is attributable, to DFM so work composes from functions, and to Dknowledge so the project keeps its memory.
+The environment where projects are created, composed, validated, cloned and evolved, and where a project that reaches its objective is formalized into an application. A project is liquid and experimental. An application is the solid form of one that arrived. Every application was a project first. Bound to UID so participation is attributable, and to the method so a project is built from parts rather than from scratch.
 
 This is not only for developers. A project can be a study plan, a research programme, a local group, a DAO, an organization, a piece of software. Anything that needs a goal, people and steps.
 
@@ -14,7 +14,7 @@ Organizing around a shared objective is rebuilt from nothing every time. The wor
 
 **What would change.** Projects are composed from modules in a shared format, so starting one is assembling rather than beginning, and a project that reaches its objective is promoted into an application without losing what it was.
 
-**Why the rest depends on it.** Without PAP, Drayker remains a collection of repositories and proposals. PAP is where the method becomes lived coordination, where Dk meets projects in context and where an organization can outgrow its founders without losing its memory.
+**Why the rest depends on it.** Without it, the method has nowhere to be practised at scale and every project stays the size of its founders.
 
 ## How a project would be built
 
@@ -31,7 +31,7 @@ Projects would also carry validation and testing, predictions, modelling and sim
 
 ## Where this stands
 
-Drayker has internal material on PAP that is not published yet. The closest public relative is DFMPProject, which describes how a project gets proposed but not where it then lives. A specification comes only after a public charter and one worked example.
+Drayker has internal material on the platform that is not published yet. The closest public relative is DFMPProject, which describes how a project gets proposed but not where it then lives. A repository comes only after a public charter and one worked example.
 
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
@@ -49,13 +49,13 @@ document about it has somewhere to live and someone can argue with it in public.
 
 - A running platform, an account system or a hosting service.
 - A replacement for the proposal path described in DFMPProject.
-- Constitutional rules for membership or resource allocation. PAP expresses decisions; it does not make itself sovereign.
+- A claim that projects carry their own money or that DAF permanently owns allocation rules.
 
 ## How it fits the whole
 
 Where projects are composed and where they become applications — the middle of the loop that turns a problem into value.
 
-A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a project through DFMPProject; PAP is where that project lives, is composed, copied and evolved — one shared language of functions and modules, so a project can reuse what another already solved. Members act inside it through [UID](https://uid.drayker.org). It is assisted by [Dk](https://dk.drayker.org) and can carry transitional rules from [DAF](https://daf.drayker.org) without reducing the durable organization to either one — and, as the platform matures, DAF's functions distribute and dissolve into the projects and applications of the PAP itself, instead of remaining in a separate federation. Every project and organization carries its own Dknowledge in connection with a specialised Dk: the project's memory and intelligence grow with the project, and a lesson learned in one need not be learned twice in another. PAP closes the loop with the [Academy](https://academy.drayker.org) and the [value unit](https://value.drayker.org), while member governance remains responsible for the rules under which shared resources move.
+A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a project through DFMPProject; PAP is where that project lives, is composed, copied and evolved — one shared language of functions and modules, so a project can reuse what another already solved. Participation inside it is attributed through [UID](https://uid.drayker.org). It runs on [Dk](https://dk.drayker.org) and progressively receives durable coordination functions tested in [DAF](https://daf.drayker.org). Every project and organization carries its own Dknowledge, in connection with a specialized Dk — the project's knowledge grows with the project, and reusable learning can cross scales with provenance and authorization. It closes the loop with the [Academy](https://academy.drayker.org), where a function can become a learning path, and relates needs and resources to the capacity economy. Projects may have resource relationships and accountable allocations; they do not inherently carry a self-contained fund.
 
 ## First functions
 
@@ -69,6 +69,8 @@ by one person.
 5. Describe the minimum lifecycle without any economy of its own: create, set an
    objective, invite a participant, review a proposal, record a contribution, and close
    or reuse a project.
+6. Specify how a governance or coordination function can migrate from DAF into PAP
+   without importing DAF's federative points as general reputation.
 
 ## How to contribute
 
