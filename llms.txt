@@ -1,6 +1,6 @@
 # Projects & Applications
 
-> Where an intention becomes a project anyone can join. The environment where projects and applications are created, composed, validated, copied and evolved — each with its own scope and its own community, all speaking the same modular language, so that a project can reuse what another one already solved instead of rebuilding it.
+> Drayker's project-and-application environment: where an intention gains a body, becomes a project members can join, and can mature into a durable application without losing its memory. As PAP matures, DAF's functions distribute and dissolve into its projects and applications.
 
 Projects & Applications is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
 
