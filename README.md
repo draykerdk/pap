@@ -1,20 +1,18 @@
-> A project is how people organize around anything they want to do. An application is what a project becomes once it works.
+> Compose projects and carry successful work into lasting applications.
 
-**Where an intention becomes a project, and a project becomes something that lasts.**
+Projects & Applications proposes an environment for creating, adapting and connecting collaborative projects. A project that fulfils its purpose can become a maintained application.
 
-The environment where projects are created, composed, validated, cloned and evolved, and where a project that reaches its objective is formalized into an application. A project is liquid and experimental. An application is the solid form of one that arrived. Every application was a project first. Bound to UID so participation is attributable, and to the method so a project is built from parts rather than from scratch.
+Projects would combine functions, templates, validation and attributable participation, preserving the knowledge needed to adapt them to another context.
 
-This is not only for developers. A project can be a study plan, a research programme, a local group, a DAO, an organization, a piece of software. Anything that needs a goal, people and steps.
+PAP is where reusable methods, people and knowledge are intended to meet in continuing practice.
+
+## A practical example
+
+A local learning project could reuse a tested structure, adapt its activities and publish the changes that another community would need to understand. This is an illustration of the proposed design.
 
 ## The problem it addresses
 
-Organizing around a shared objective is rebuilt from nothing every time. The work of coordinating, the structure, the roles, the sequence, does not transfer between initiatives, and a project that succeeds has no way to become a durable thing without being rebuilt as something else.
-
-**How it works today.** Every initiative invents its own coordination, and nothing that one group learns is available to the next. What worked stays a project. What failed is attempted again elsewhere.
-
-**What would change.** Projects are composed from modules in a shared format, so starting one is assembling rather than beginning, and a project that reaches its objective is promoted into an application without losing what it was.
-
-**Why the rest depends on it.** Without it, the method has nowhere to be practised at scale and every project stays the size of its founders.
+Useful structure and learning often remain tied to the group that produced them. Another initiative may struggle to reuse the work or understand why it succeeded.
 
 ## How a project would be built
 
@@ -33,8 +31,7 @@ Projects would also carry validation and testing, predictions, modelling and sim
 
 Drayker has internal material on the platform that is not published yet. The closest public relative is DFMPProject, which describes how a project gets proposed but not where it then lives. A repository comes only after a public charter and one worked example.
 
-Nothing described here is implemented. This repository exists so that the first
-document about it has somewhere to live and someone can argue with it in public.
+This repository develops the proposal through public documentation and review. The capabilities described here still require specifications, worked examples and implementation.
 
 ## Scope
 
