@@ -29,7 +29,7 @@ Projects would also carry validation and testing, predictions, modelling and sim
 
 ## Where this stands
 
-Drayker has internal material on the platform that is not published yet. The closest public relative is DFMPProject, which describes how a project gets proposed but not where it then lives. A repository comes only after a public charter and one worked example.
+Drayker has internal material on the platform that is not published yet. The closest public relative is DFMPProject, which describes how a project gets proposed but not where it then lives. This repository is where the public charter and a first worked example are meant to be written. A first example could look like this: a town that distrusts the water of its wells enters PAP with the problem described in public — which wells, which contaminants, what margin of error is enough — and that project sheet is what lets strangers take functions in it.
 
 This repository develops the proposal through public documentation and review. The capabilities described here still require specifications, worked examples and implementation.
 
@@ -46,13 +46,13 @@ This repository develops the proposal through public documentation and review. T
 
 - A running platform, an account system or a hosting service.
 - A replacement for the proposal path described in DFMPProject.
-- A claim that projects carry their own money or that DAF permanently owns allocation rules.
+- A claim that resources entrusted to a project become its private asset, or that DAF permanently owns allocation rules.
 
 ## How it fits the whole
 
 Where projects are composed and where they become applications — the middle of the loop that turns a problem into value.
 
-A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a project through DFMPProject; PAP is where that project lives, is composed, copied and evolved — one shared language of functions and modules, so a project can reuse what another already solved. Participation inside it is attributed through [UID](https://uid.drayker.org). It runs on [Dk](https://dk.drayker.org) and progressively receives durable coordination functions tested in [DAF](https://daf.drayker.org). Every project and organization carries its own Dknowledge, in connection with a specialized Dk — the project's knowledge grows with the project, and reusable learning can cross scales with provenance and authorization. It closes the loop with the [Academy](https://academy.drayker.org), where a function can become a learning path, and relates needs and resources to the capacity economy. Projects may have resource relationships and accountable allocations; they do not inherently carry a self-contained fund.
+A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a project through DFMPProject; PAP is where that project lives, is composed, copied and evolved — one shared language of functions and modules, so a project can reuse what another already solved. Participation inside it is attributed through [UID](https://uid.drayker.org). It runs on [Dk](https://dk.drayker.org) and progressively receives durable coordination functions tested in [DAF](https://daf.drayker.org). Every project and organization carries its own Dknowledge, in connection with a specialized Dk — the project's knowledge grows with the project, and reusable learning can cross scales with provenance and authorization. It closes the loop with the [Academy](https://academy.drayker.org), where a function can become a learning path, and relates needs and resources to the capacity economy. Projects may carry resources entrusted to them through accountable allocations. Those resources remain bound to the purpose for which they were entrusted and return to the common funds under the agreed closing conditions; they are not a self-contained fund the project owns.
 
 ## First functions
 
