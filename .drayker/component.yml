@@ -15,7 +15,7 @@ component:
   non_scope:
     - "A running platform, an account system or a hosting service."
     - "A replacement for the proposal path described in DFMPProject."
-    - "A claim that projects carry their own money or that DAF permanently owns allocation rules."
+    - "A claim that resources entrusted to a project become its private asset, or that DAF permanently owns allocation rules."
   dependencies:
     - dfmpproject
     - uid
