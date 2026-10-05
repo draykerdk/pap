@@ -16,12 +16,13 @@ Useful structure and learning often remain tied to the group that produced them.
 
 ## How a project would be built
 
-Four ways, combinable rather than exclusive:
+Five ways, combinable rather than exclusive:
 
 - **With Dk.** Describe what you want. A working structure is proposed and evolves with the project.
 - **From a template.** Standard models for known purposes, copied and adapted.
 - **By assembly.** Pre-built functions and modules connected into a structure. The method applied to the project itself.
 - **From scratch.** Your own functions and modules, when nothing that exists fits.
+- **By Dk itself.** Dk recognizes needs and potential in the ecosystem and creates projects, or evolves existing projects and applications, on its own or with groups of members.
 
 Any open project can be copied and modified. The fundamentals resemble a code forge, applied to far more than code. Dk is meant to work against duplicated effort: pointing to modules that already exist, to what has been tried and failed, and to people working towards the same thing.
 
