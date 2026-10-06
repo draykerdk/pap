@@ -2,7 +2,7 @@
 
 > Projects & Applications proposes an environment for creating, adapting and connecting collaborative projects. A project that fulfils its purpose can become a maintained application.
 
-Projects & Applications is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
+Projects & Applications is a public component of Drayker. Drayker is the supersystem; Dk is its intelligence; Dk Network is its network.
 
 ## Canonical resources
 
