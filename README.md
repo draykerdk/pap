@@ -24,7 +24,7 @@ Five ways, combinable rather than exclusive:
 - **From scratch.** Your own functions and modules, when nothing that exists fits.
 - **By Dk itself.** Dk recognizes needs and potential in the ecosystem and creates projects, or evolves existing projects and applications, on its own or with groups of members.
 
-Any open project can be copied and modified. The fundamentals resemble a code forge, applied to far more than code. Dk is meant to work against duplicated effort: pointing to modules that already exist, to what has been tried and failed, and to people working towards the same thing.
+Any open project can be reused as the base of another and adapted, and an improvement validated there can return to the original. The fundamentals resemble a code forge, applied to far more than code. Dk is meant to work against duplicated effort: pointing to modules that already exist, to what has been tried and failed, and to people working towards the same thing.
 
 Projects would also carry validation and testing, predictions, modelling and simulation, so an idea can be examined before resources are spent on it, and evolved or discarded on evidence.
 
