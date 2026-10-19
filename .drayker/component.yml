@@ -9,6 +9,8 @@ component:
     - "Public description of projects and applications as composable modules."
     - "Public description of the lifecycle from project to application, and what promotion requires."
     - "Public description of reuse and templates across projects, and of versions tested in parallel by projects with different proposals, with the network integrating validated improvements."
+    - "Public description of five combinable ways to build a project, including Dk recognizing needs and creating or evolving projects itself."
+    - "Public description of what a mature project carries: participants, Dknowledge, specialized Dks, modules, rules and entrusted resources, with DAF dissolving into PAP."
     - "Public description of validation, modelling and simulation before resources are committed."
     - "Public description of participation attributed through UID."
     - "Public description of relation to DFMPProject and the project queues."
@@ -35,4 +37,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/pap
     path: README.md
-  last_reviewed: "2026-09-08"
+  last_reviewed: "2026-10-19"
