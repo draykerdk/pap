@@ -8,7 +8,7 @@ component:
   scope:
     - "Public description of projects and applications as composable modules."
     - "Public description of the lifecycle from project to application, and what promotion requires."
-    - "Public description of reuse, cloning and templates across projects."
+    - "Public description of reuse and templates across projects, and of versions tested in parallel by projects with different proposals, with the network integrating validated improvements."
     - "Public description of validation, modelling and simulation before resources are committed."
     - "Public description of participation attributed through UID."
     - "Public description of relation to DFMPProject and the project queues."

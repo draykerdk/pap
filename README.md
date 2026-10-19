@@ -24,9 +24,25 @@ Five ways, combinable rather than exclusive:
 - **From scratch.** Your own functions and modules, when nothing that exists fits.
 - **By Dk itself.** Dk recognizes needs and potential in the ecosystem and creates projects, or evolves existing projects and applications, on its own or with groups of members.
 
-Any open project can be reused as the base of another and adapted, and an improvement validated there can return to the original. The fundamentals resemble a code forge, applied to far more than code. Dk is meant to work against duplicated effort: pointing to modules that already exist, to what has been tried and failed, and to people working towards the same thing.
+Any open project can be reused as the base of another and adapted, and an improvement validated there can return to the original. Versions are tested in parallel by projects with different proposals; the network integrates validated improvements. Dk is meant to work against duplicated effort: pointing to modules that already exist, to what has been tried and failed, and to people working towards the same thing.
 
 Projects would also carry validation and testing, predictions, modelling and simulation, so an idea can be examined before resources are spent on it, and evolved or discarded on evidence.
+
+## How a project would flow
+
+A project would move through these stages:
+
+1. Intention.
+2. Project.
+3. Functions.
+4. People, agents, knowledge and resources.
+5. Execution.
+6. Result.
+7. Dknowledge.
+8. Review or integration.
+9. Application, or a new attempt.
+
+The [DFM](https://dfmp.drayker.org) method covers the middle of this flow.
 
 ## Where this stands
 
@@ -38,7 +54,7 @@ This repository develops the proposal through public documentation and review. T
 
 - Projects and applications as composable modules
 - The lifecycle from project to application, and what promotion requires
-- Reuse, cloning and templates across projects
+- Reuse and templates across projects, and versions tested in parallel by projects with different proposals, with the network integrating validated improvements
 - Validation, modelling and simulation before resources are committed
 - Participation attributed through UID
 - Relation to DFMPProject and the project queues
@@ -53,7 +69,7 @@ This repository develops the proposal through public documentation and review. T
 
 Where projects are composed and where they become applications — the middle of the loop that turns a problem into value.
 
-A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a project through DFMPProject; PAP is where that project lives, is composed, copied and evolved — one shared language of functions and modules, so a project can reuse what another already solved. Participation inside it is attributed through [UID](https://uid.drayker.org). It runs on [Dk](https://dk.drayker.org) and progressively receives durable coordination functions tested in [DAF](https://daf.drayker.org), which is a basic and primitive form of PAP implemented now, testing its dynamics as the very way Drayker is built. Every project and organization carries its own Dknowledge, in connection with a specialized Dk — the project's knowledge grows with the project, and reusable learning can cross scales with provenance and authorization. It closes the loop with the [Academy](https://academy.drayker.org), where a function can become a learning path, and relates needs and resources to the capacity economy. Projects may carry resources entrusted to them through accountable allocations. Those resources remain bound to the purpose for which they were entrusted and return to the common funds under the agreed closing conditions; they are not a self-contained fund the project owns.
+A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a project through DFMPProject; PAP is where that project lives, is composed, copied and evolved — one shared language of functions and modules, so a project can reuse what another already solved. Participation inside it is attributed through [UID](https://uid.drayker.org). It runs on [Dk](https://dk.drayker.org) and progressively receives durable coordination functions tested in [DAF](https://daf.drayker.org), which is a basic and primitive form of PAP implemented now, testing its dynamics as the very way Drayker is built. Every project and organization carries its own Dknowledge, in connection with a specialized Dk — the project's knowledge grows with the project, and reusable learning can cross scales with provenance and authorization. It closes the loop with the [Academy](https://academy.drayker.org), where a function can become a learning path, and relates needs and resources to the capacity economy. As PAP matures, each project carries its participants, its Dknowledge, specialized Dks, modules, rules and resources, and DAF dissolves into PAP. Projects may carry resources entrusted to them through accountable allocations. Those resources remain bound to the purpose for which they were entrusted and return to the common funds under the agreed closing conditions; they are not a self-contained fund the project owns.
 
 ## First functions
 
