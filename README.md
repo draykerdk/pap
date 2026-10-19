@@ -1,3 +1,5 @@
+# Projects & Applications
+
 > Compose projects and carry successful work into lasting applications.
 
 Projects & Applications proposes an environment for creating, adapting and connecting collaborative projects. A project that fulfils its purpose can become a maintained application.
