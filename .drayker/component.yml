@@ -7,7 +7,8 @@ component:
   problem: "Organizing around an objective is rebuilt from nothing every time, and a project that works has no way to become durable without being rebuilt as something else."
   scope:
     - "Public description of projects and applications as composable modules."
-    - "Public description of the lifecycle from project to application, and what promotion requires."
+    - "Public description of the lifecycle from project to application, and what promotion requires: a project is liquid and experimental, an application has defined terms and a settled organization, and it keeps every project function while gaining new ones."
+    - "Public description of projects as generic: organizations of members, research, applications, improvements to the system or a person's plan of life and study, created inside other projects and applications, communicating, sharing resources, merging and joining to form new projects."
     - "Public description of reuse and templates across projects, and of versions tested in parallel by projects with different proposals, with the network integrating validated improvements."
     - "Public description of five combinable ways to build a project, including Dk recognizing needs and creating or evolving projects itself."
     - "Public description of what a mature project carries: participants, Dknowledge, specialized Dks, modules, rules and entrusted resources, with DAF dissolving into PAP."
