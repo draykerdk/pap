@@ -8,6 +8,10 @@ Projects would combine functions, templates, validation and attributable partici
 
 PAP is where reusable methods, people and knowledge are intended to meet in continuing practice.
 
+## Project and application
+
+A project is liquid and highly experimental. An application is more solid: its terms are defined, its organization has settled, and it changes less often because it has reached a form that works. Every application passes through being a project, and when it becomes one it loses none of its project functions; it gains new ones. Stability frees work for new problems, and the possibility of revision lets the settled form be corrected.
+
 ## A practical example
 
 A local learning project could reuse a tested structure, adapt its activities and publish the changes that another community would need to understand. This is an illustration of the proposed design.
@@ -27,6 +31,8 @@ Five ways, combinable rather than exclusive:
 - **By assembly.** Pre-built functions and modules connected into a structure. The method applied to the project itself.
 - **From scratch.** Your own functions and modules, when nothing that exists fits.
 - **By Dk itself.** Dk recognizes needs and potential in the ecosystem and creates projects, or evolves existing projects and applications, on its own or with groups of members.
+
+Projects are generic. A project can be an organization of members, a research effort, an application, an improvement to the system or a person's own plan of life and study. Projects can be created inside other projects and applications, communicate, share resources, merge, and join with others to form new projects.
 
 Any open project can be reused as the base of another and adapted, and an improvement validated there can return to the original. Versions are tested in parallel by projects with different proposals; the network integrates validated improvements. Dk is meant to work against duplicated effort: pointing to modules that already exist, to what has been tried and failed, and to people working towards the same thing.
 
@@ -84,7 +90,9 @@ A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a p
 These are concrete and unclaimed. Any of them can be opened as an issue and delivered
 by one person.
 
-1. Define the threshold: what a project must satisfy to be promoted into an application.
+1. Define the threshold: what a project must satisfy to be promoted into an application,
+   starting from the qualitative criterion above: defined terms, a settled organization
+   and a form that works.
 2. Write what the platform has to guarantee a project.
 3. Describe one application worth composing first.
 4. Argue where DFMPProject ends and the platform begins.
