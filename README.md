@@ -2,7 +2,7 @@
 
 > Compose projects and carry successful work into lasting applications.
 
-Projects & Applications proposes an environment for creating, adapting and connecting collaborative projects. A project that fulfils its purpose can become a maintained application.
+Projects & Applications is a system in which intentions become projects composed of functions and modules, and projects evolve and can become durable applications. It is also the environment in which organization, knowledge, participants and resources can be distributed among units. PAP organizes the passage from intention to project: it makes it possible to describe a purpose, break it down into functions, link it to available capacities and follow what happens. This repository proposes an environment for creating, adapting and connecting collaborative projects; a project that fulfils its purpose can become a maintained application.
 
 Projects would combine functions, templates, validation and attributable participation, preserving the knowledge needed to adapt them to another context.
 
@@ -10,7 +10,7 @@ PAP is where reusable methods, people and knowledge are intended to meet in cont
 
 ## Project and application
 
-A project is liquid and highly experimental. An application is more solid: its terms are defined, its organization has settled, and it changes less often because it has reached a form that works. Every application passes through being a project, and when it becomes one it loses none of its project functions; it gains new ones. Stability frees work for new problems, and the possibility of revision lets the settled form be corrected.
+A project is liquid and highly experimental. An application is more solid: its terms are defined, its organization has settled, and it changes less often because it has reached a form that works. Every application passes through being a project, and when it becomes one it loses none of its project functions; it gains new ones. The project stops reinventing every process in every cycle. This stability frees work for new problems, and the possibility of revision makes it possible to correct the form that has stabilized.
 
 ## A practical example
 
@@ -20,7 +20,7 @@ A local learning project could reuse a tested structure, adapt its activities an
 
 Useful structure and learning often remain tied to the group that produced them. Another initiative may struggle to reuse the work or understand why it succeeded.
 
-A society also distributes the power to begin. Some people can gather capital, hire a team and turn an intention into reality; others spend their lives finding problems they know how to state and never have the means to work on them. In PAP, a question a member brings reaches accumulated knowledge, other experiences of the same problem and capacities that can be mobilized. The path to realization does not depend on wealth, position, class, appearance or where someone comes from, only on present reality and on what each person does.
+A society also distributes the power to begin. Some can gather capital, hire a team and turn an intention into reality; others spend their lives finding problems they know how to formulate but never have the means to work on. In PAP, a question a member presents reaches accumulated knowledge, other experiences of the same problem and capacities that can be mobilized. The path to realization no longer depends on wealth, position, social class, appearance or the story of where one comes from. It depends only on present reality and on what each person does.
 
 ## How a project would be built
 
@@ -36,7 +36,7 @@ Projects are generic. A project can be an organization of members, a research ef
 
 Any open project can be reused as the base of another and adapted, and an improvement validated there can return to the original. Versions are tested in parallel by projects with different proposals; the network integrates validated improvements. Dk is meant to work against duplicated effort: pointing to modules that already exist, to what has been tried and failed, and to people working towards the same thing.
 
-As a project demonstrates progress, the network relates it to more knowledge, computing, infrastructure, funding and people. When a problem needs very different capacities, it brings together specialities that would never meet through today's institutional channels.
+As a project shows progress, the network relates it to more knowledge, computation, infrastructure, funding and people. If another project is already heading in the same direction, the intelligence suggests integration instead of duplication. If a problem demands very different capacities, it brings together specialities that would never meet through current institutional channels.
 
 Projects would also carry validation and testing, predictions, modelling and simulation, so an idea can be examined before resources are spent on it, and evolved or discarded on evidence.
 
@@ -56,7 +56,7 @@ A project would move through these stages:
 
 The [DFM](https://dfmp.drayker.org) method covers the middle of this flow.
 
-Functional decomposition lets specialities gather around problems larger than any single team, linked by dependencies and integration criteria, each front keeping its own responsibilities, results and usable knowledge. What forms is a collective intentionality: intentions, knowledge, needs and capacities spread among participants relate to each other and become common action without requiring unanimity or a majority. Showing each person what their function does in the whole gives participants back a view of the shared work.
+Functional decomposition makes it possible to gather specialities around problems that exceed any isolated team. Scientific research, software development, instrumentation, manufacturing and validation can advance on different fronts, linked by dependencies and integration criteria, and each front keeps those responsible for it, its results and knowledge usable by the others. What forms in this way is a collective intentionality: intentions, knowledge, needs and capacities distributed among the participants relate to one another and become common action, without requiring unanimity or a majority. Showing each person what their function does in the whole gives the participants back a view of the shared work.
 
 ## Where this stands
 
@@ -83,7 +83,7 @@ This repository develops the proposal through public documentation and review. T
 
 Where projects are composed and where they become applications — the middle of the loop that turns a problem into value.
 
-A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a project through DFMPProject; PAP is where that project lives, is composed, copied and evolved — one shared language of functions and modules, so a project can reuse what another already solved. Participation inside it is attributed through [UID](https://uid.drayker.org). It runs on [Dk](https://dk.drayker.org) and progressively receives durable coordination functions tested in [DAF](https://daf.drayker.org), which is a basic and primitive form of PAP implemented now, testing its dynamics as the very way Drayker is built. Every project and organization carries its own Dknowledge, in connection with a specialized Dk — the project's knowledge grows with the project, and reusable learning can cross scales with provenance and authorization. It closes the loop with the [Academy](https://academy.drayker.org), where a function can become a learning path, and relates needs and resources to the capacity economy. As PAP matures, each project carries its participants, its Dknowledge, specialized Dks, modules, rules and resources, and DAF dissolves into PAP. Projects may carry resources entrusted to them through accountable allocations. Those resources remain bound to the purpose for which they were entrusted and return to the common funds under the agreed closing conditions; they are not a self-contained fund the project owns. A partnership around a project has to widen the capacity to realize the common purpose; its reach, its counterparts and the rights over what it produces are known, so that support for the construction stays distinct from a dependence that hands its direction to another interest. Continuing functions inside a project are recognized in their cost, responsibility and conditions of permanence.
+A problem enters through [DFMP](https://dfmp.drayker.org) and is modelled as a project through DFMPProject; PAP is where that project lives, is composed, copied and evolved — one shared language of functions and modules, so a project can reuse what another already solved. Participation inside it is attributed through [UID](https://uid.drayker.org). It runs on [Dk](https://dk.drayker.org) and progressively receives durable coordination functions tested in [DAF](https://daf.drayker.org), the first phase in the distribution of the Drayker Embassy's power and a basic, primitive form of PAP, implemented now to test its dynamics in the construction itself. Every project and organization carries its own Dknowledge, in connection with a specialized Dk — the project's knowledge grows with the project, and reusable learning can cross scales with provenance and authorization. It closes the loop with the [Academy](https://academy.drayker.org), where a function can become a learning path, and relates needs and resources to the capacity economy. As PAP matures, each project increasingly carries its participants, its Dknowledge, specialized Dks, modules, rules and resources. DAF serves to build the independent infrastructure that will make it unnecessary, and so it prepares its own dissolution: it stops being a separate layer and comes to live inside PAP. Projects may carry resources entrusted to them through accountable allocations. Those resources remain bound to the purpose for which they were entrusted and return to the common funds under the agreed closing conditions; they are not a self-contained fund the project owns. A partnership around a project has to widen the capacity to realize the common purpose; its reach, its counterparts and the rights over what it produces are known, so that support for the construction stays distinct from a dependence that hands its direction to another interest. Ongoing functions inside a project require recognition of cost, responsibility and the conditions to stay.
 
 ## First functions
 
